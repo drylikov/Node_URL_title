@@ -1,5 +1,4 @@
-
-# url-title
+# URL title .
 
   Generate a humanized title from a url.
 
